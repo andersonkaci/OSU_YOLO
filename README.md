@@ -1,0 +1,2 @@
+# OSU_YOLO
+YOLOv10m OSU
